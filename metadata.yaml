@@ -1,11 +1,16 @@
 _repo: Ye-Olde-Mint-Being-a-brief-description-of-the-first-US-Mint-established-by-Congress-in-the-ye__65613
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65613-h/images/cover.jpg
 creator:
   author:
     agent_name: Stewart, Frank H.
     gutenberg_agent_id: '53429'
     url: http://www.gutenberg.org/2009/agents/53429
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65613#Ye-Olde-Mint-Being-a-brief-description-of-the-first-US-Mint-established-by-Congress-in-the-ye_
 gutenberg_issued: '2021-06-13'
 gutenberg_type: Text
 identifiers:
